@@ -1,0 +1,11 @@
+p{
+      color: blue;
+      border: solid;
+    }
+    nav li { color: purple;}
+    header img {
+      height:200px;
+      width:200px;
+      border:1px solid black;
+      padding:10px;
+    }
